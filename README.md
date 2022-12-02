@@ -5,9 +5,8 @@
 <h1 align="center">Hi 👋, I'm Gino</h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fabriziocatanzaro&label=Visitors&color=690eb4&style=flat" alt="fabriziocatanzaro" /> </p>
 
-<p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 <div align=left>
   
 - 👋 Hi, I’m @GinoValenti 
