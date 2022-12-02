@@ -2,8 +2,8 @@
   <img align="center" width=50% height=100%  src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-scaled.jpg">
 </div>
 
-<h1 align="center">Hi 👋, I'm Fabrizio</h1>
-<h3 align="center">A 22 years old man passionate about programming</h3>
+<h1 align="center">Hi 👋, I'm Gino</h1>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fabriziocatanzaro&label=Visitors&color=690eb4&style=flat" alt="fabriziocatanzaro" /> </p>
 
@@ -19,8 +19,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/luciano-fabrizio-catanzaro-pfahler-9619a418b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luciano-fabrizio-catanzaro-pfahler-9619a418b" height="30" width="40" /></a>
-<a href="https://instagram.com/fabrycatanzaro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabrycatanzaro" height="30" width="40" /></a>
-<a href="https://discord.gg/FabrizioCatanzaro#1452" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FabrizioCatanzaro#1452" height="30" width="40" /></a>
+<a href="https://instagram.com/ginoromanvalenti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fabrycatanzaro" height="30" width="40" /></a>
+<a href="https://discord.gg/valenti#7827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="valenti#7827" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -34,13 +34,7 @@
 </div>
 
 
-<!---
-![Fabrizio's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabrizioCatanzaro&show_icons=true&theme=vision-friendly-dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioCatanzaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Fabrizio's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FabrizioCatanzaro&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
---> 
 
 
 
