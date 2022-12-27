@@ -3,7 +3,7 @@
 <br>
 <br>
 <div align="left">
-  <img align="left" width=50% height=100%  src="https://cdn.discordapp.com/attachments/849741352882929714/1057310734150807612/Code_typing-amico.png">
+  <img align="left" width=50% height=100%  src="https://media.discordapp.net/attachments/849741352882929714/1057311997164802098/Code_typing-pana.png?width=547&height=547">
 </div>
 
 
