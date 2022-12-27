@@ -36,7 +36,7 @@
   <div align="center"> <img src="https://komarev.com/ghpvc/?username=GinoValenti"></img> </div>
 
 
-<div align="right">
+<div align="center">
 
 ### 🛠️ Languages and Tools:
  
