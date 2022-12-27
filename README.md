@@ -1,8 +1,10 @@
-<div align=center>
-  <img align="center" width=50% height=100%  src="https://cdn.discordapp.com/attachments/849741352882929714/1057310734150807612/Code_typing-amico.png">
+<h1 align="center">Hi 👋, I'm Gino</h1>
+<h3 align="center">Full-Stack MERN developer & Mobile Apps🌟.</h3>
+<div align="left">
+  <img align="left" width=50% height=100%  src="https://cdn.discordapp.com/attachments/849741352882929714/1057310734150807612/Code_typing-amico.png">
 </div>
 
-<h1 align="center">Hi 👋, I'm Gino</h1>
+
 
 
 
