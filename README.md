@@ -21,7 +21,7 @@
 </p>
 
   ![Snake animation](https://github.com/guille1999utp/guille1999utp/blob/output/github-contribution-grid-snake.svg)
-  <div align="center">![](https://komarev.com/ghpvc/?username=GinoValenti) </div>
+  <div align="center"> <img src="https://komarev.com/ghpvc/?username=GinoValenti"></img> </div>
 
 
 
