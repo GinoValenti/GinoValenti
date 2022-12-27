@@ -34,10 +34,11 @@
 </p>
 
 
-  <div align="center"> <img src="https://komarev.com/ghpvc/?username=GinoValenti"></img> </div>
-<h3 align="left">Some of my lastest projects</h3>
-<p>My tinerary: https://mytinerary-netrunners.vercel.app/ </p>
 
+<h3 align="left">Some of my lastest projects</h3>
+<hr>
+<p>My tinerary: https://mytinerary-netrunners.vercel.app/ </p>
+  <div align="center"> <img src="https://komarev.com/ghpvc/?username=GinoValenti"></img> </div>
 <div align="center">
 
 ### 🛠️ Languages and Tools:
