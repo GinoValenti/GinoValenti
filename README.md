@@ -36,10 +36,10 @@
   <div align="center"> <img src="https://komarev.com/ghpvc/?username=GinoValenti"></img> </div>
 
 
-
+<div align="right">
 
 ### 🛠️ Languages and Tools:
-<div align="right"> 
+ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
