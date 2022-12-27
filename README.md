@@ -21,7 +21,7 @@
   
 </div>
 <h3 align="left">Connect with me:</h3>
-<hr>
+
 <p align="left">
   <a href="https://www.linkedin.com/in/gino-valenti-a70b04234/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -35,8 +35,8 @@
 
 
 
-<h3 align="left">Some of my lastest projects</h3>
-<hr>
+<h3 align="left">Some of my lastest projects:</h3>
+
 <p>My tinerary: https://mytinerary-netrunners.vercel.app/ </p>
   <div align="center"> <img src="https://komarev.com/ghpvc/?username=GinoValenti"></img> </div>
 <div align="center">
