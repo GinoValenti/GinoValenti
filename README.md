@@ -1,5 +1,5 @@
 <div align=center>
-  <img align="center" width=50% height=100%  src="https://www.codingem.com/wp-content/uploads/2021/10/juanjo-jaramillo-mZnx9429i94-unsplash-scaled.jpg">
+  <img align="center" width=50% height=100%  src="https://cdn.discordapp.com/attachments/849741352882929714/1057310734150807612/Code_typing-amico.png">
 </div>
 
 <h1 align="center">Hi 👋, I'm Gino</h1>
