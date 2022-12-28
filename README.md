@@ -37,6 +37,8 @@
 
 <h3 align="left">Some of my lastest projects:</h3>
 
+<a href="https://motorx.vercel.app/">🚗 MotorX </a>
+
 <a href="https://mytinerary-netrunners.vercel.app/">✈️ My tinerary </a>
 
 <div align="center">
