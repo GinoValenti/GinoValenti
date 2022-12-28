@@ -14,8 +14,7 @@
 <div align=left>
   
 - 👋 Hi, I’m @GinoValenti 
-- 👀 I’m interested in learn programming I would also like to learn more about design which is something that I am passionate about
-- 🌱 I’m currently learning MERN Fullstack & Mobile Apps in Mindhub.com
+- 🌱 I’m currently learning MERN Fullstack & Mobile Apps 
 - 👨‍💻 All of my projects are available <a href="https://github.com/GinoValenti?tab=repositories "> here </a>
 - 📫 How to reach me ginorvalenti@gmail.com
   
