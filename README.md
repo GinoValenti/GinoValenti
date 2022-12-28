@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning MERN Fullstack & Mobile Apps 
 - 👨‍💻 All of my projects are available <a href="https://github.com/GinoValenti?tab=repositories "> here </a>
 - 📫 How to reach me ginorvalenti@gmail.com
-  
+  <br>
 </div>
 <h3 align="left">Connect with me:</h3>
 
