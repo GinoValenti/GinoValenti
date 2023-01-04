@@ -40,7 +40,7 @@
 
 <a href="https://mytinerary-netrunners.vercel.app/">✈️ My tinerary </a>
 
-<a href="https://gino-valenti-portfolio.vercel.app/">🖌️ Portfolio </a>
+<a align="center" href="https://gino-valenti-portfolio.vercel.app/">🖌️ Portfolio </a>
 <div align="center">
 
   <h3 align="center" > 🛠️ Languages and Tools:</h3>
