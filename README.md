@@ -39,6 +39,7 @@
 <a href="https://motorx.vercel.app/">🚗 MotorX </a>
 
 <a href="https://mytinerary-netrunners.vercel.app/">✈️ My tinerary </a>
+
 <a align="center" href="https://ginovalenti.github.io/amazing-events/">🎉 Amazing Events </a>
 
 <a align="center" href="https://gino-valenti-portfolio.vercel.app/">🖌️ Portfolio </a>
