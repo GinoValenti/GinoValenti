@@ -14,7 +14,6 @@
 <div align=left>
   
 - 👋 Hi, I’m @GinoValenti 
-- 🌱 I’m currently learning Vue.Js
 - 👨‍💻 All of my projects are available <a href="https://github.com/GinoValenti?tab=repositories "> here </a>
 - 📫 How to reach me ginorvalenti@gmail.com
   <br>
