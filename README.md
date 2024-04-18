@@ -2,9 +2,7 @@
 <h3 align="center">Full-Stack MERN developer & Mobile Apps🌟.</h3>
 <br>
 <br>
-<div align="left">
-  <img align="left" width=45%   src="https://media.discordapp.net/attachments/849741352882929714/1057313503553257532/Code_typing-amico.png?width=547&height=547">
-</div>
+>
 
 
 
