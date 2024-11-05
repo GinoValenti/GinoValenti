@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gino</h1>
-<h3 align="center">Full-Stack MERN developer & Mobile Apps🌟.</h3>
 <br>
-<br>
-
 
 
 
