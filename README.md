@@ -25,17 +25,6 @@
 
 </p>
 
-
-
-<h3 align="left">Some of my lastest projects:</h3>
-
-<a href="https://motorx.vercel.app/">🚗 MotorX </a>
-
-<a href="https://mytinerary-netrunners.vercel.app/">✈️ My tinerary </a>
-
-<a align="center" href="https://ginovalenti.github.io/amazing-events/">🎉 Amazing Events </a>
-
-<a align="center" href="https://gino-valenti-portfolio.vercel.app/">🖌️ Portfolio </a>
 <div align="center">
 
   <h3 align="center" > 🛠️ Languages and Tools:</h3>
